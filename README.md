@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Shif-28/Shif-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Shif and based in London. I am an aspiring developer with a passion for coding and problem solving. 
 
-Here are some ideas to get you started:
+I have recently completed the HyperionDev Software Engineering Bootcamp (with a 100% pass rate!) and will be using my Github to show my personal projects as I continue to learn and develop my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also currently a full-time Climate Change Resilience Consultant and will be looking to utilise my coding skills to support my project work.
+
+## :desktop_computer: Tech Stack
+ I am currently using:
+- Python
+- SQL
+- Django
+
+:books: I have plans to learn additional languages and frameworks through personal projects so watch this space! 
+
+## 🔭 Current Projects
+
+I'm currently working on:
+- [X] Push my bootcamp projects to Github
+- [ ] Adding a GUI to my current projects
+- [ ] Taking on a more advanced project that utilises a combination of Python and SQL (maybe others!)
+- [ ] Learn another language such as C++
+
