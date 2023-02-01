@@ -4,7 +4,7 @@ My name is Shif and based in London. I am an aspiring developer with a passion f
 
 I have recently completed the HyperionDev Software Engineering Bootcamp (with a 100% pass rate!) and will be using my Github to show my personal projects as I continue to learn and develop my coding skills.
 
-I am also currently a full-time Climate Change Resilience Consultant and will be looking to utilise my coding skills to support my project work.
+I am also currently a full-time Climate Change Resilience Consultant and will be looking to utilise my coding skills to support climate change-related projects.
 
 ## :desktop_computer: Tech Stack
  I am currently using:
